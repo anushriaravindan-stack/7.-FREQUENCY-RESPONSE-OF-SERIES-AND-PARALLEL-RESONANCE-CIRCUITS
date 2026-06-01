@@ -24,19 +24,21 @@ Frequency Response is a plot of output voltage or current of a resonance circuit
 frequency response is shown in figure 2.The two additional frequencies  f 1 and f 2 are also indicated which are called half power frequencies. These frequencies locate those points on the curve at which the voltage response is 1/√2 or 0.707 times the maximum value. They are used to measure the band-width of the response curve. This is called the half – power bandwidth of the resonant circuit and is defined as:  ΒW =f2 - f1
 
 **CIRCUIT DIAGRAM:**
+<img width="900" height="1600" alt="WhatsApp Image 2026-06-01 at 10 16 48 AM" src="https://github.com/user-attachments/assets/72b93e04-d283-42ea-88f2-7b1fc1cf5593" />
+
+
 
 
 
 
 **Model graph:**
-
-
-
-
-**TABULATION:**
+<img width="1600" height="801" alt="WhatsApp Image 2026-06-01 at 10 16 10 AM" src="https://github.com/user-attachments/assets/fe31b6b7-f5c2-4396-89f7-c7ae7315c95f" />
+<img width="1600" height="900" alt="WhatsApp Image 2026-06-01 at 10 16 20 AM" src="https://github.com/user-attachments/assets/02b9ed1d-c291-485f-80bf-a824b0a826a1" />
 
 
 **Calculation:**
+
+<img width="900" height="1600" alt="WhatsApp Image 2026-06-01 at 10 16 55 AM" src="https://github.com/user-attachments/assets/bcaa07f7-c484-440c-a884-34acbef1bca8" />
 
 
 
@@ -53,6 +55,8 @@ frequency response is shown in figure 2.The two additional frequencies  f 1 and 
 8.	Repeat steps 1 through 7 for Parallel resonance circuit  shown.
 
 **Mark split up:**
+<img width="900" height="1600" alt="WhatsApp Image 2026-06-01 at 10 17 19 AM" src="https://github.com/user-attachments/assets/94cfe49c-b5ea-4e4d-bce0-df48ec3e769d" />
+
 
 **RESULT:**
 
